@@ -4,16 +4,15 @@
 
 ## Eğitimin Amacı
 
-Bu eğitim serisinin amacı, sonlu elemanlar yönteminin mühendislik problemlerinin çözümünde nasıl kullanıldığının öğrencilere aktarılmasıdır. Bu süreçte diferansiyel denklemlerin fiziksel probleme göre nasıl şekillendiği, ve denklem sistemlerinin nasıl matrise dönüştürülüp çözüldüğü sistematik olarak ele alınmıştır. Eğitimi tamamlayan öğrencilerin açık kaynaklı olarak geliştirilen bir çok sonlu eleman çözücülerini kolaylıkla kullanabilmeye başlaması ve bu kütüphaneleri kendi ihtiyaçları doğrultusunda değiştirip düzenleyebilme kabiliyetini edinmesi, eğitimin ana amaçlarındandır. Bu amaçla halihazırda bilinen türkçe olarak hazırlanmış ilk materyal olması, bu alandaki eksiği kapatmak açısından oldukça önemlidir. Ek olarak teori ve numerik uygulama arasında bir köprü kurması ve sürekli geliştirmeye açık olması, eğitimin uzun vadede faydalı olabilmesinin önünü açmaktadır. 
-
-## Eğitim İçin Gerekli Önbilgiler
-
-Hazırlanan eğitim serisi, son sınıf mühendislik/temel bilim lisans öğrencilerine veya lisansüstü öğrencilere yöneliktir. Temel kısmi diferansiyel denklemler bilgisi ve lineer cebir bilgisi eğitime başlamak için yeterlidir. Ek olarak Python programlama önbilgisine ihtiyaç yoktur. Tüm dersleri tamamlamak için gerekli programlama bilgisi 2. Adım'da özetlenmiştir.   
+Bu eğitim serisinin amacı, sonlu elemanlar yönteminin mühendislik problemlerinin çözümünde nasıl kullanıldığının öğrencilere aktarılmasıdır. Eğitim boyunca diferansiyel denklemlerin fiziksel probleme göre nasıl şekillendiği, ve denklem sistemlerinin nasıl matrise dönüştürülüp çözüldüğü sistematik olarak ele alınmıştır. Eğitimi tamamlayan öğrencilerin açık kaynaklı olarak geliştirilen bir çok sonlu eleman çözücülerini kolaylıkla kullanabilmeye başlaması ve bu kütüphaneleri kendi ihtiyaçları doğrultusunda değiştirip düzenleyebilme kabiliyetini edinmesi, eğitimin ana amaçlarındandır. Bu amaçla halihazırda bilinen türkçe olarak hazırlanmış ilk materyal olması, bu alandaki eksiği kapatmak açısından oldukça önemlidir. Ek olarak teori ve numerik uygulama arasında bir köprü kurması ve sürekli geliştirmeye açık olması, eğitimin uzun vadede faydalı olabilmesinin önünü açmaktadır. 
 
 ## Eğitimin Kullanımı
 
-Eğitimler, bilgisayara tüm eğitim dosyalarını indirmek durumunda interaktif olarak kullanılabilir. İnteraktif olarak kodları değiştirmek için Jupyter Notebook'un bilgisayarınıza kurulu olması gerekmektedir. Bunun için Jupyter Notebook'un kurulumu, Windows ve Ubuntu işletim sistemleri için Adım 1'de anlatılmıştır. Bu adımı tamamlayıp bilgisayarınıza Jupyter Notebook'u kurduktan sonra istediğiniz dersi açıp o derste yazılan kodları değiştirip/çalıştırabilirsiniz. 
+Eğitimler, bilgisayara tüm eğitim dosyalarını indirmek durumunda interaktif olarak kullanılabilir. İnteraktif olarak kodları değiştirmek için Jupyter Notebook'un bilgisayarınıza kurulu olması gerekmektedir. Bunun için Jupyter Notebook'un kurulumu, Windows ve Ubuntu işletim sistemleri için [Adım 1'de](https://github.com/ekremekc/SEA-Temelleri/blob/main/Dersler/1_JupyterNotebookKurulum.ipynb anlatılmıştır. Bu adımı tamamlayıp bilgisayarınıza Jupyter Notebook'u kurduktan sonra istediğiniz dersi açıp o derste yazılan kodları değiştirip/çalıştırabilirsiniz. 
 
+## Eğitim İçin Gerekli Önbilgiler
+
+Hazırlanan eğitim serisi, son sınıf mühendislik/temel bilim lisans öğrencilerine veya lisansüstü öğrencilere yöneliktir. Temel kısmi diferansiyel denklemler bilgisi ve lineer cebir bilgisi eğitime başlamak için yeterlidir. Ek olarak Python programlama önbilgisine ihtiyaç yoktur. Tüm dersleri tamamlamak için gerekli programlama bilgisi [Adım 2'de](https://github.com/ekremekc/SEA-Temelleri/blob/main/Dersler/2_PythonGiris.ipynb) özetlenmiştir.   
 
 ## Eğitimin İçeriği
 
@@ -22,3 +21,14 @@ Eğitimler, bilgisayara tüm eğitim dosyalarını indirmek durumunda interaktif
 - Adım 3 : Sonlu Elemanlar Metoduna Genel Bakış 
 
 ## Eğitimin Hazırlanmasında Kullanılan Kaynaklar
+
+Bu eğitim serisi hazırlanırken onlarca kitaptan faydalanılmıştır. Bu kitaplardan bazıları referans amaçlı olarak aşağıda sıralanmıştır;
+
+- Becker, E. B., Carey, G. F., & Oden, J. T. (1981). Finite Elements, An Introduction: Volume I. ., 258, 1981.
+- Logan, D. L. (2016). A first course in the finite element method. Cengage Learning.
+- Fish, J., & Belytschko, T. (2007). A first course in finite elements (Vol. 1). New York: John Wiley & Sons.
+- Hasanov, A. H. (2001). Varyasyonel Problemler ve Sonlu Elemanlar Yöntemi. Literatür yayınları, İstanbul.
+
+## Çalışmanın Alıntılanması
+
+Bu eğitim mühendislik bilimi doktora öğrencileri Ahmet Alperen Koç ve Ekrem Ekici tarafından hazırlanmıştır. Yazarların izni doğrultusunda bu eğitim kullanılabilir, değiştirilebilir ve geliştirilebilir. Bu eğitim serisinden yararlanarak oluşturulan her materyalde bu eğitimden yararlanıldığının belirtilmesi yeterlidir.
