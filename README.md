@@ -8,8 +8,8 @@
 
 ## Eğitimin İçeriği
 
-Adım 1 : Jupyter Notebook'un İşletim Sistemine Kurulumu
-Adım 2 : Python Programlama Bilgisine Kısa Bir Bakış
-Adım 3 : Sonlu Elemanlar Yöntemine Kısa Bir Bakış
+Adım 1 : Jupyter Notebook'un İşletim Sistemine Kurulumu \n
+Adım 2 : Python Programlama Bilgisine Kısa Bir Bakış \n
+Adım 3 : Sonlu Elemanlar Yöntemine Kısa Bir Bakış \n
 
 ## Eğitimin Hazırlanmasında Kullanılan Kaynaklar
