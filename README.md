@@ -37,4 +37,4 @@ Bu eğitim serisi hazırlanırken bu alanda yazılmış onlarca kitaptan faydala
 
 ## Çalışmanın Alıntılanması
 
-Bu eğitim mühendislik bilimi doktora öğrencileri Ahmet Alperen Koç ve Ekrem Ekici tarafından hazırlanmıştır. Yazarların izni doğrultusunda bu eğitim kullanılabilir, değiştirilebilir ve geliştirilebilir. Bu eğitim serisinden yararlanarak oluşturulan her materyalde bu eğitimden yararlanıldığının belirtilmesi yeterlidir.
+Bu eğitim serisi, mühendislik bilimi doktora öğrencileri Ahmet Alperen Koç ve Ekrem Ekici tarafından hazırlanmıştır. Yazarların izni doğrultusunda bu eğitim kullanılabilir, değiştirilebilir ve geliştirilebilir. Bu eğitim serisinden yararlanarak oluşturulan her materyalde bu eğitimden yararlanıldığının belirtilmesi yeterlidir.
