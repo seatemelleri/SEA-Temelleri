@@ -4,11 +4,17 @@
 
 ## Eğitimin Amacı
 
-Bu eğitim serisinin amacı, sonlu elemanlar yönteminin mühendislik problemlerinin çözümünde nasıl kullanıldığının öğrencilere aktarılmasıdır. Eğitim boyunca diferansiyel denklemlerin fiziksel probleme göre nasıl şekillendiği, ve denklem sistemlerinin nasıl matrise dönüştürülüp çözüldüğü sistematik olarak ele alınmıştır. Eğitimi tamamlayan öğrencilerin açık kaynaklı olarak geliştirilen bir çok sonlu eleman çözücülerini kolaylıkla kullanabilmeye başlaması ve bu kütüphaneleri kendi ihtiyaçları doğrultusunda değiştirip düzenleyebilme kabiliyetini edinmesi, eğitimin ana amaçlarındandır. Bu amaçla halihazırda bilinen türkçe olarak hazırlanmış ilk materyal olması, bu alandaki eksiği kapatmak açısından oldukça önemlidir. Ek olarak teori ve numerik uygulama arasında bir köprü kurması ve sürekli geliştirmeye açık olması, eğitimin uzun vadede faydalı olabilmesinin önünü açmaktadır. 
+Bu eğitim serisinin amacı, sonlu elemanlar yönteminin mühendislik problemlerinin çözümünde nasıl kullanıldığının öğrencilere aktarılmasıdır. Eğitim boyunca diferansiyel denklemlerin fiziksel probleme göre nasıl şekillendiği, ve denklem sistemlerinin nasıl matrise dönüştürülüp çözüldüğü sistematik olarak ele alınmıştır. Eğitimi tamamlayan öğrencilerin açık kaynaklı olarak geliştirilen bir çok sonlu eleman çözücülerini kolaylıkla kullanabilmeye başlaması ve bu kütüphaneleri kendi ihtiyaçları doğrultusunda değiştirip düzenleyebilme kabiliyetini edinmesi, eğitimin ana amacıdır. 
+
+Ayrıca, endüstri'de yoğun olarak tercih edilen ticari sonlu eleman kodlarını kullanırken teorik ve numerik altyapının kullanıcıya kazandırılması da eğitimin hedefleri arasındadır. 
+
+## Eğitimin Önemi
+
+Bu interaktif eğitim serisinin bilindiği kadarıyla halihazırda türkçe olarak hazırlanmış ilk materyal olması, bu alandaki eksiği kapatmak açısından oldukça önemlidir. Ek olarak teori ve numerik uygulama arasında bir köprü kurması ve sürekli geliştirmeye açık olması, eğitimin uzun vadede faydalı olabilmesinin önünü açmaktadır. 
 
 ## Eğitimin Kullanımı
 
-Eğitimler, bilgisayara tüm eğitim dosyalarını indirmek durumunda interaktif olarak kullanılabilir. İnteraktif olarak kodları değiştirmek için Jupyter Notebook'un bilgisayarınıza kurulu olması gerekmektedir. Bunun için Jupyter Notebook'un kurulumu, Windows ve Ubuntu işletim sistemleri için [Adım 1'de](https://github.com/ekremekc/SEA-Temelleri/blob/main/Dersler/1_JupyterNotebookKurulum.ipynb anlatılmıştır. Bu adımı tamamlayıp bilgisayarınıza Jupyter Notebook'u kurduktan sonra istediğiniz dersi açıp o derste yazılan kodları değiştirip/çalıştırabilirsiniz. 
+Eğitimler, bilgisayara tüm eğitim dosyalarını indirmek durumunda interaktif olarak kullanılabilir. İnteraktif olarak kodları değiştirmek için Jupyter Notebook'un bilgisayarınıza kurulu olması gerekmektedir. Bunun için Jupyter Notebook'un kurulumu, Windows ve Ubuntu işletim sistemleri için [Adım 1'de](https://github.com/ekremekc/SEA-Temelleri/blob/main/Dersler/1_JupyterNotebookKurulum.ipynb) anlatılmıştır. Bu adımı tamamlayıp bilgisayarınıza Jupyter Notebook'u kurduktan sonra istediğiniz dersi açıp o derste yazılan kodları değiştirip/çalıştırabilirsiniz. 
 
 ## Eğitim İçin Gerekli Önbilgiler
 
@@ -16,13 +22,13 @@ Hazırlanan eğitim serisi, son sınıf mühendislik/temel bilim lisans öğrenc
 
 ## Eğitimin İçeriği
 
-- Adım 1 : Jupyter Notebook'un İşletim Sistemine Kurulumu 
-- Adım 2 : Python Programlama Bilgisine Kısa Bir Bakış 
-- Adım 3 : Sonlu Elemanlar Metoduna Genel Bakış 
+- Adım 1 : [Jupyter Notebook'un İşletim Sistemine Kurulumu](https://github.com/ekremekc/SEA-Temelleri/blob/main/Dersler/1_JupyterNotebookKurulum.ipynb) 
+- Adım 2 : [Python Programlama Bilgisine Kısa Bir Bakış](https://github.com/ekremekc/SEA-Temelleri/blob/main/Dersler/2_PythonGiris.ipynb) 
+- Adım 3 : [Sonlu Elemanlar Metoduna Genel Bakış]{https://github.com/ekremekc/SEA-Temelleri/blob/main/Dersler/3_Sonlu_Elemanlar_Metodu_Genel_Bakis.ipynb} 
 
 ## Eğitimin Hazırlanmasında Kullanılan Kaynaklar
 
-Bu eğitim serisi hazırlanırken onlarca kitaptan faydalanılmıştır. Bu kitaplardan bazıları referans amaçlı olarak aşağıda sıralanmıştır;
+Bu eğitim serisi hazırlanırken bu alanda yazılmış onlarca kitaptan faydalanılmıştır. Bu kitaplardan bazıları referans amaçlı olarak aşağıda sıralanmıştır;
 
 - Becker, E. B., Carey, G. F., & Oden, J. T. (1981). Finite Elements, An Introduction: Volume I. ., 258, 1981.
 - Logan, D. L. (2016). A first course in the finite element method. Cengage Learning.
