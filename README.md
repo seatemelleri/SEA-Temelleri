@@ -10,7 +10,7 @@ Ayrıca, endüstri'de yoğun olarak tercih edilen ticari sonlu eleman kodların�
 
 ## Eğitimin Önemi
 
-Bu interaktif eğitim serisinin bilindiği kadarıyla halihazırda türkçe olarak hazırlanmış ilk materyal olması, bu alandaki eksiği kapatmak açısından oldukça önemlidir. Ek olarak teori ve numerik uygulama arasında bir köprü kurması ve sürekli geliştirmeye açık olması, eğitimin uzun vadede faydalı olabilmesinin önünü açmaktadır. 
+Bu interaktif eğitim serisinin bilindiği kadarıyla türkçe olarak hazırlanmış ilk materyal olması, bu alandaki eksiği kapatmak açısından oldukça önemlidir. Ek olarak teori ve numerik uygulama arasında bir köprü kurması ve sürekli geliştirmeye açık olması, eğitimin uzun vadede faydalı olabilmesinin önünü açmaktadır. 
 
 ## Eğitimin Kullanımı
 
