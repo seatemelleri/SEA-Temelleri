@@ -4,6 +4,8 @@
 
 ## Eğitimin Amacı
 
+## Eğitimin Kullanımı
+
 ## Eğitim İçin Gerekli Önbilgiler
 
 ## Eğitimin İçeriği
