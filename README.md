@@ -22,6 +22,8 @@ Hazırlanan eğitim serisi, son sınıf mühendislik/temel bilim lisans öğrenc
 
 ## Eğitimin İçeriği
 
+Eğitim toplam 12 adımdan oluşmaktadır. Bu adımlar ve içerikleri aşağıda listelenmiştir; 
+
 - Adım 1 : [Jupyter Notebook'un İşletim Sistemine Kurulumu](https://github.com/ekremekc/SEA-Temelleri/blob/main/Dersler/1_JupyterNotebookKurulum.ipynb) 
 - Adım 2 : [Python Programlama Bilgisine Kısa Bir Bakış](https://github.com/ekremekc/SEA-Temelleri/blob/main/Dersler/2_PythonGiris.ipynb) 
 - Adım 3 : [Sonlu Elemanlar Metoduna Genel Bakış](https://github.com/ekremekc/SEA-Temelleri/blob/main/Dersler/3_Sonlu_Elemanlar_Metodu_Genel_Bakis.ipynb) 
