@@ -12,6 +12,6 @@
 
 - Adım 1 : Jupyter Notebook'un İşletim Sistemine Kurulumu 
 - Adım 2 : Python Programlama Bilgisine Kısa Bir Bakış 
-- Adım 3 : Sonlu Elemanlar Yöntemine Kısa Bir Bakış 
+- Adım 3 : Sonlu Elemanlar Metoduna Genel Bakış 
 
 ## Eğitimin Hazırlanmasında Kullanılan Kaynaklar
