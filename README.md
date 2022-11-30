@@ -6,11 +6,17 @@
 
 Bu eğitim serisinin amacı, sonlu elemanlar yönteminin mühendislik problemlerinin çözümünde nasıl kullanıldığının öğrencilere aktarılmasıdır. Eğitim boyunca diferansiyel denklemlerin fiziksel probleme göre nasıl şekillendiği, ve denklem sistemlerinin nasıl matrise dönüştürülüp çözüldüğü sistematik olarak ele alınmıştır. Eğitimi tamamlayan öğrencilerin açık kaynaklı olarak geliştirilen bir çok sonlu eleman çözücülerini kolaylıkla kullanabilmeye başlaması ve bu kütüphaneleri kendi ihtiyaçları doğrultusunda değiştirip düzenleyebilme kabiliyetini edinmesi, eğitimin ana amacıdır. 
 
-Ayrıca, endüstri'de yoğun olarak tercih edilen ticari sonlu eleman kodlarını kullanırken teorik ve numerik altyapının kullanıcıya kazandırılması ve edinilen sonuçların yorumlanması ve geliştirilmesi sürecinde fikir üretmeye katkı sağlaması, eğitimin hedefleri arasındadır. 
+Ayrıca, endüstride yoğun olarak tercih edilen ticari sonlu eleman kodlarını kullanırken;
+
+- teorik ve numerik altyapının kullanıcıya kazandırılması
+- sonuçların fiziksel olarak yorumlanması
+- modellemenin geliştirilmesi 
+
+süreçlerine katkıda bulunmak eğitimin hedefleri arasındadır. 
 
 ## Eğitimin Önemi
 
-Bu interaktif eğitim serisinin bilindiği kadarıyla türkçe olarak hazırlanmış ilk materyal olması, bu alandaki eksiği kapatmak açısından oldukça önemlidir. Ek olarak teori ve numerik uygulama arasında bir köprü kurması ve sürekli geliştirmeye açık olması, eğitimin uzun vadede faydalı olabilmesinin önünü açmaktadır. 
+Bu interaktif eğitim serisinin bilindiği kadarıyla Türkçe olarak hazırlanmış ilk materyal olması, bu alandaki eksiği kapatmak açısından oldukça önemlidir. Ek olarak teori ve numerik uygulama arasında bir köprü kurması ve sürekli geliştirmeye açık olması, eğitimin uzun vadede faydalı olabilmesinin önünü açmaktadır. 
 
 ## Eğitimin Kullanımı
 
