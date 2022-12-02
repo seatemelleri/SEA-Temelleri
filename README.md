@@ -4,12 +4,12 @@
 
 ## Eğitimin Amacı
 
-Bu eğitim serisinin amacı, sonlu elemanlar yönteminin mühendislik problemlerinin çözümünde nasıl kullanıldığının öğrencilere aktarılmasıdır. Eğitim boyunca diferansiyel denklemlerin fiziksel probleme göre nasıl şekillendiği, ve denklem sistemlerinin nasıl matrise dönüştürülüp çözüldüğü sistematik olarak ele alınmıştır. Eğitimi tamamlayan öğrencilerin açık kaynaklı olarak geliştirilen bir çok sonlu eleman çözücülerini kolaylıkla kullanabilmeye başlaması ve bu kütüphaneleri kendi ihtiyaçları doğrultusunda değiştirip düzenleyebilme kabiliyetini edinmesi, eğitimin ana amacıdır. 
+Bu eğitim serisinin amacı, sonlu elemanlar yönteminin mühendislik problemlerinin çözümünde nasıl kullanıldığının öğrencilere aktarılmasıdır. Eğitim boyunca diferansiyel denklemlerin fiziksel probleme göre nasıl şekillendiği, ve denklem sistemlerinin nasıl matrise dönüştürülüp çözüldüğü sistematik olarak ele alınmıştır. Eğitimi tamamlayan öğrencilerin açık kaynaklı olarak geliştirilen birçok sonlu eleman çözücülerini kolaylıkla kullanabilmeye başlaması ve bu kütüphaneleri kendi ihtiyaçları doğrultusunda değiştirip düzenleyebilme kabiliyetini edinmesi, eğitimin ana amacıdır. 
 
-Ayrıca, endüstride yoğun olarak tercih edilen ticari sonlu eleman kodlarını kullanırken;
+Ayrıca, endüstride yoğun olarak tercih edilen ticari sonlu eleman programlarını kullanırken:
 
-- teorik ve numerik altyapının kullanıcıya kazandırılması
-- sonuçların fiziksel olarak yorumlanması
+- kullanılan programın teorik ve numerik altyapısının kullanıcıya kazandırılması
+- elde edilen sonuçların fiziksel olarak yorumlanması
 - modellemenin geliştirilmesi 
 
 süreçlerine katkıda bulunmak eğitimin hedefleri arasındadır. 
@@ -20,7 +20,7 @@ Bu interaktif eğitim serisinin bilindiği kadarıyla Türkçe olarak hazırlanm
 
 ## Eğitimin Kullanımı
 
-Eğitimler, bilgisayara tüm eğitim dosyalarını indirmek durumunda interaktif olarak kullanılabilir. İnteraktif olarak kodları değiştirmek için Jupyter Notebook'un bilgisayarınıza kurulu olması gerekmektedir. Bunun için Jupyter Notebook'un kurulumu, Windows ve Ubuntu işletim sistemleri için [Adım 1'de](https://github.com/ekremekc/SEA-Temelleri/blob/main/Dersler/1_JupyterNotebookKurulum.ipynb) anlatılmıştır. Bu adımı tamamlayıp bilgisayarınıza Jupyter Notebook'u kurduktan sonra istediğiniz dersi açıp o derste yazılan kodları değiştirip/çalıştırabilirsiniz. 
+Eğitimler, bilgisayara tüm eğitim dosyalarını indirerek interaktif olarak kullanılabilir. İnteraktif olarak kodları değiştirmek için Jupyter Notebook'un bilgisayarınıza kurulu olması gerekmektedir. Bunun için Jupyter Notebook'un kurulumu, Windows ve Ubuntu işletim sistemleri için [Adım 1'de](https://github.com/ekremekc/SEA-Temelleri/blob/main/Dersler/1_JupyterNotebookKurulum.ipynb) anlatılmıştır. Bu adımı tamamlayıp bilgisayarınıza Jupyter Notebook'u kurduktan sonra istediğiniz dersi açıp o derste yazılan kodları değiştirip/çalıştırabilirsiniz. 
 
 ## Eğitim İçin Gerekli Ön Bilgiler
 
@@ -28,7 +28,7 @@ Hazırlanan eğitim serisi, son sınıf mühendislik/temel bilim lisans öğrenc
 
 ## Eğitimin İçeriği
 
-Eğitim toplam 12 adımdan oluşmaktadır. Bu adımlar ve içerikleri aşağıda listelenmiştir; 
+Eğitim toplam 12 adımdan oluşmaktadır. Bu adımlar ve içerikleri aşağıda listelenmiştir:
 
 - Adım 1 : [Jupyter Notebook'un İşletim Sistemine Kurulumu](https://github.com/ekremekc/SEA-Temelleri/blob/main/Dersler/1_JupyterNotebookKurulum.ipynb) 
 - Adım 2 : [Python Programlama Bilgisine Kısa Bir Bakış](https://github.com/ekremekc/SEA-Temelleri/blob/main/Dersler/2_PythonGiris.ipynb) 
@@ -48,3 +48,8 @@ Bu eğitim serisi hazırlanırken bu alanda yazılmış onlarca kitaptan faydala
 ## Çalışmanın Alıntılanması
 
 Bu eğitim serisi, mühendislik bilimi doktora öğrencileri Ahmet Alperen Koç ve Ekrem Ekici tarafından hazırlanmıştır. Yazarların izni doğrultusunda bu eğitim kullanılabilir, değiştirilebilir ve geliştirilebilir. Bu eğitim serisinden yararlanarak oluşturulan her materyalde bu eğitimden yararlanıldığının belirtilmesi yeterlidir.
+
+## Çalışmaya Katkı
+
+Hazırlanan bu eğitim serisine yönelik geri bildirimler,tavsiyeler, görüşler ve öneriler için <a href="mailto:seatemelleri@gmail.com">seatemelleri@gmail.com</a> e-mail adresi üzerinden yazarlara ulaşabilirsiniz.  
+
