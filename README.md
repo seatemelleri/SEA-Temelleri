@@ -41,7 +41,7 @@ Bu eğitim serisi, mühendislik bilimi doktora öğrencileri Ahmet Alperen Koç 
 
 ## Çalışmaya Katkı
 
-Hazırlanan bu eğitim serisine yönelik geri bildirimler,tavsiyeler, görüşler ve öneriler için <a href="mailto:seatemelleri@gmail.com">seatemelleri@gmail.com</a> e-mail adresi üzerinden yazarlara ulaşabilirsiniz.  
+Hazırlanan bu eğitim serisine yönelik geri bildirimler, görüşler ve öneriler için <a href="mailto:seatemelleri@gmail.com">seatemelleri@gmail.com</a> e-mail adresi üzerinden yazarlara ulaşabilirsiniz.  
 
 ## Eğitimin Hazırlanmasında Kullanılan Kaynaklar
 
