@@ -33,6 +33,15 @@ Eğitim toplam 12 adımdan oluşmaktadır. Bu adımlar ve içerikleri aşağıda
 - Adım 1 : [Jupyter Notebook'un İşletim Sistemine Kurulumu](https://github.com/ekremekc/SEA-Temelleri/blob/main/Dersler/1_JupyterNotebookKurulum.ipynb) 
 - Adım 2 : [Python Programlama Bilgisine Kısa Bir Bakış](https://github.com/ekremekc/SEA-Temelleri/blob/main/Dersler/2_PythonGiris.ipynb) 
 - Adım 3 : [Sonlu Elemanlar Metoduna Genel Bakış](https://github.com/ekremekc/SEA-Temelleri/blob/main/Dersler/3_Sonlu_Elemanlar_Metodu_Genel_Bakis.ipynb) 
+- Adım 5 : [Sonlu Elemanlar Metodu ile 1 Boyutlu Isı Transferi Uygulaması](https://github.com/seatemelleri/SEA-Temelleri/blob/main/Dersler/5_Isi_Denklemi_1B.ipynb) 
+
+## Çalışmanın Alıntılanması
+
+Bu eğitim serisi, mühendislik bilimi doktora öğrencileri Ahmet Alperen Koç ve Ekrem Ekici tarafından hazırlanmıştır. Yazarların izni doğrultusunda bu eğitim kullanılabilir, değiştirilebilir ve geliştirilebilir. Bu eğitim serisinden yararlanarak oluşturulan her materyalde bu eğitimden yararlanıldığının belirtilmesi yeterlidir.
+
+## Çalışmaya Katkı
+
+Hazırlanan bu eğitim serisine yönelik geri bildirimler,tavsiyeler, görüşler ve öneriler için <a href="mailto:seatemelleri@gmail.com">seatemelleri@gmail.com</a> e-mail adresi üzerinden yazarlara ulaşabilirsiniz.  
 
 ## Eğitimin Hazırlanmasında Kullanılan Kaynaklar
 
@@ -44,12 +53,8 @@ Bu eğitim serisi hazırlanırken bu alanda yazılmış onlarca kitaptan faydala
 - Hasanov, A. H. (2001). Varyasyonel Problemler ve Sonlu Elemanlar Yöntemi. Literatür yayınları, İstanbul.
 - Seshu, P. (2003). Textbook of finite element analysis. PHI Learning Pvt. Ltd..
 - Thompson, E. G. (2005). An introduction to the finite element method: theory, programming, and applications. Hoboken, NJ.: Wiley.
-
-## Çalışmanın Alıntılanması
-
-Bu eğitim serisi, mühendislik bilimi doktora öğrencileri Ahmet Alperen Koç ve Ekrem Ekici tarafından hazırlanmıştır. Yazarların izni doğrultusunda bu eğitim kullanılabilir, değiştirilebilir ve geliştirilebilir. Bu eğitim serisinden yararlanarak oluşturulan her materyalde bu eğitimden yararlanıldığının belirtilmesi yeterlidir.
-
-## Çalışmaya Katkı
-
-Hazırlanan bu eğitim serisine yönelik geri bildirimler,tavsiyeler, görüşler ve öneriler için <a href="mailto:seatemelleri@gmail.com">seatemelleri@gmail.com</a> e-mail adresi üzerinden yazarlara ulaşabilirsiniz.  
-
+- Reddy, J. N. (2019). Introduction to the finite element method. McGraw-Hill Education.
+- Ottosen, N., Petersson, H., & Saabye, N. Introduction to the Finite Element Method, 1992. Harlow, England: Pearson Prentice Hall.
+- Welty, J., Rorrer, G. L., & Foster, D. G. (2020). Fundamentals of momentum, heat, and mass transfer. John Wiley & Sons.
+- [Wikiversity- Finite Elements](https://en.wikiversity.org/wiki/Finite_elements) 
+- [3D7: Finite Element Methods](https://github.com/garth-wells/notebooks-3D7)
