@@ -56,6 +56,7 @@ Bu eğitim serisi hazırlanırken bu alanda yazılmış onlarca kitaptan faydala
 - Reddy, J. N. (2019). Introduction to the finite element method. McGraw-Hill Education.
 - Ottosen, N., Petersson, H., & Saabye, N. Introduction to the Finite Element Method, 1992. Harlow, England: Pearson Prentice Hall.
 - Welty, J., Rorrer, G. L., & Foster, D. G. (2020). Fundamentals of momentum, heat, and mass transfer. John Wiley & Sons.
+- Li, G. (2020). Introduction to the Finite Element Method and Implementation with MATLAB®. Cambridge University Press.
 - [Wikiversity- Finite Elements](https://en.wikiversity.org/wiki/Finite_elements) 
 - [3D7: Finite Element Methods](https://github.com/garth-wells/notebooks-3D7)
 - [Lecture Notes for ME 413 Introduction to Finite Element Analysis - Dr. Cüneyt Sert](https://users.metu.edu.tr/home204/csert/wwwhome/teaching_notes.htm)
