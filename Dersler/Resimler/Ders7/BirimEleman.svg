@@ -574,7 +574,7 @@
        id="page8"
        width="511.44696"
        height="389.04022"
-       inkscape:export-filename="2BoyutluProblem.png"
+       inkscape:export-filename="BirimEleman.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" />
   </sodipodi:namedview>
@@ -1014,7 +1014,10 @@
     <g
        inkscape:label=""
        transform="matrix(0.750002,0,0,0.750002,256.62682,244.29568)"
-       id="g26045">
+       id="g26045"
+       inkscape:export-filename="./g26045.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
       <g
          id="g26043"
          transform="matrix(1.33333,0,0,1.33333,-0.875,0.0036672)">
