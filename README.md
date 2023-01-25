@@ -33,6 +33,7 @@ Eğitim toplam 12 adımdan oluşmaktadır. Bu adımlar ve içerikleri aşağıda
 - Adım 1 : [Jupyter Notebook'un İşletim Sistemine Kurulumu](https://github.com/ekremekc/SEA-Temelleri/blob/main/Dersler/1_JupyterNotebookKurulum.ipynb) 
 - Adım 2 : [Python Programlama Bilgisine Kısa Bir Bakış](https://github.com/ekremekc/SEA-Temelleri/blob/main/Dersler/2_PythonGiris.ipynb) 
 - Adım 3 : [Sonlu Elemanlar Metoduna Genel Bakış](https://github.com/ekremekc/SEA-Temelleri/blob/main/Dersler/3_Sonlu_Elemanlar_Metodu_Genel_Bakis.ipynb) 
+- Adım 4 : [Eksenel Yüke Maruz Çubuğun Adım Adım Sonlu Eleman Modelinin Geliştirilmesi](https://github.com/ekremekc/SEA-Temelleri/blob/main/Dersler/4_a.ipynb) 
 - Adım 5 : [Sonlu Elemanlar Metodu ile 1 Boyutlu Isı Transferi Uygulaması](https://github.com/seatemelleri/SEA-Temelleri/blob/main/Dersler/5_Isi_Denklemi_1B.ipynb) 
 
 ## Çalışmanın Alıntılanması
@@ -56,6 +57,8 @@ Bu eğitim serisi hazırlanırken bu alanda yazılmış onlarca kitaptan faydala
 - Reddy, J. N. (2019). Introduction to the finite element method. McGraw-Hill Education.
 - Ottosen, N., Petersson, H., & Saabye, N. Introduction to the Finite Element Method, 1992. Harlow, England: Pearson Prentice Hall.
 - Welty, J., Rorrer, G. L., & Foster, D. G. (2020). Fundamentals of momentum, heat, and mass transfer. John Wiley & Sons.
+- Li, G. (2020). Introduction to the Finite Element Method and Implementation with MATLAB®. Cambridge University Press.
+- Riley, K. F., & Hobson, M. P. (2011). Essential mathematical methods for the physical sciences. Cambridge University Press.
 - [Wikiversity- Finite Elements](https://en.wikiversity.org/wiki/Finite_elements) 
 - [3D7: Finite Element Methods](https://github.com/garth-wells/notebooks-3D7)
 - [Lecture Notes for ME 413 Introduction to Finite Element Analysis - Dr. Cüneyt Sert](https://users.metu.edu.tr/home204/csert/wwwhome/teaching_notes.htm)
