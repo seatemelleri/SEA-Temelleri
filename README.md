@@ -35,6 +35,7 @@ Eğitim toplam 12 adımdan oluşmaktadır. Bu adımlar ve içerikleri aşağıda
 - Adım 3 : [Sonlu Elemanlar Metoduna Genel Bakış](https://github.com/ekremekc/SEA-Temelleri/blob/main/Dersler/3_Sonlu_Elemanlar_Metodu_Genel_Bakis.ipynb) 
 - Adım 4 : [Eksenel Yüke Maruz Çubuğun Adım Adım Sonlu Eleman Modelinin Geliştirilmesi](https://github.com/ekremekc/SEA-Temelleri/blob/main/Dersler/4_a.ipynb) 
 - Adım 5 : [Sonlu Elemanlar Metodu ile 1 Boyutlu Isı Transferi Uygulaması](https://github.com/seatemelleri/SEA-Temelleri/blob/main/Dersler/5_Isi_Denklemi_1B.ipynb) 
+- Adım 7 : [Sonlu Elemanlar Metodu ile 2 Boyutlu Isı Transferi Uygulaması](https://github.com/seatemelleri/SEA-Temelleri/blob/main/Dersler/7_a.ipynb) 
 
 ## Çalışmanın Alıntılanması
 
