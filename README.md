@@ -63,3 +63,4 @@ Bu eğitim serisi hazırlanırken bu alanda yazılmış onlarca kitaptan faydala
 - [Wikiversity- Finite Elements](https://en.wikiversity.org/wiki/Finite_elements) 
 - [3D7: Finite Element Methods](https://github.com/garth-wells/notebooks-3D7)
 - [Lecture Notes for ME 413 Introduction to Finite Element Analysis - Dr. Cüneyt Sert](https://users.metu.edu.tr/home204/csert/wwwhome/teaching_notes.htm)
+- [David Tong: Lectures on Theoretical Physics](http://www.damtp.cam.ac.uk/user/tong/teaching.html)
