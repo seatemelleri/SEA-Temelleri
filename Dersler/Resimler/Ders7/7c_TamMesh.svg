@@ -28,12 +28,12 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.5144501"
-     inkscape:cx="207.66614"
-     inkscape:cy="457.2617"
-     inkscape:window-width="1860"
+     inkscape:cx="326.85131"
+     inkscape:cy="457.92199"
+     inkscape:window-width="1854"
      inkscape:window-height="1016"
-     inkscape:window-x="60"
-     inkscape:window-y="27"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
@@ -164,31 +164,31 @@
        width="51.973324"
        height="38.543476"
        x="39.436081"
-       y="82.058731" />
+       y="120.68793" />
     <rect
        style="fill:#ffe6d5;stroke:#000000;stroke-width:0.201337"
        id="rect234-3-6"
        width="51.973324"
        height="38.543476"
        x="91.411865"
-       y="82.058258" />
+       y="120.68745" />
     <rect
        style="fill:#ffe6d5;stroke:#000000;stroke-width:0.201337"
        id="rect234-3-5"
        width="51.973324"
        height="38.543476"
        x="39.445503"
-       y="120.61186" />
+       y="81.982712" />
     <rect
        style="fill:#ffe6d5;stroke:#000000;stroke-width:0.201337"
        id="rect234-3-6-3"
        width="51.973324"
        height="38.543476"
        x="91.421295"
-       y="120.61138" />
+       y="81.982239" />
     <g
        inkscape:label=""
-       transform="translate(65.500845,101.45633)"
+       transform="translate(65.500845,140.08574)"
        id="g478">
       <g
          clip-path="url(#clipPath600)"
@@ -210,7 +210,7 @@
     </g>
     <g
        inkscape:label=""
-       transform="translate(116.40952,100.67984)"
+       transform="translate(116.40952,139.30925)"
        id="g527">
       <g
          clip-path="url(#clipPath9554)"
@@ -232,7 +232,7 @@
     </g>
     <g
        inkscape:label=""
-       transform="translate(64.888553,137.53541)"
+       transform="translate(64.888553,98.906009)"
        id="g590">
       <g
          clip-path="url(#clipPath7735)"
@@ -254,7 +254,7 @@
     </g>
     <g
        inkscape:label=""
-       transform="translate(115.9719,138.87676)"
+       transform="translate(115.9719,100.24735)"
        id="g667">
       <g
          clip-path="url(#clipPath2505)"
@@ -323,25 +323,25 @@
        style="fill:none;stroke:#000000;stroke-width:0.264999;stroke-dasharray:none"
        id="path1791"
        cx="66.040794"
-       cy="102.8792"
+       cy="141.50819"
        r="3.442513" />
     <circle
        style="fill:none;stroke:#000000;stroke-width:0.264999;stroke-dasharray:none"
        id="path1791-5"
        cx="116.81461"
-       cy="140.19479"
+       cy="101.56583"
        r="3.442513" />
     <circle
        style="fill:none;stroke:#000000;stroke-width:0.264999;stroke-dasharray:none"
        id="path1791-6"
        cx="117.40235"
-       cy="101.67883"
+       cy="140.3078"
        r="3.442513" />
     <circle
        style="fill:none;stroke:#000000;stroke-width:0.264999;stroke-dasharray:none"
        id="path1791-2"
        cx="65.689415"
-       cy="139.24059"
+       cy="100.61158"
        r="3.442513" />
     <circle
        style="fill:#000000;stroke:#000000;stroke-width:0.0516902;stroke-dasharray:none"
@@ -396,7 +396,10 @@
     <g
        inkscape:label=""
        transform="translate(89.750807,162.33895)"
-       id="g6640">
+       id="g6640"
+       inkscape:export-filename="7c_TamMesh.png"
+       inkscape:export-xdpi="900"
+       inkscape:export-ydpi="900">
       <g
          clip-path="url(#clipPath3750)"
          id="g6638"
