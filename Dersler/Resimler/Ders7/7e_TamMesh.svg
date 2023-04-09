@@ -28,7 +28,7 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.5144501"
-     inkscape:cx="326.85131"
+     inkscape:cx="287.23297"
      inkscape:cy="449.99832"
      inkscape:window-width="1854"
      inkscape:window-height="1016"
@@ -691,6 +691,9 @@
        id="path8716-60"
        cx="143.60823"
        cy="158.45824"
-       r="1.1280812" />
+       r="1.1280812"
+       inkscape:export-filename="7e_TamMesh.png"
+       inkscape:export-xdpi="900"
+       inkscape:export-ydpi="900" />
   </g>
 </svg>
