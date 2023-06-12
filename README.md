@@ -1,6 +1,6 @@
-# 12 Adımda Sonlu Elemanlar Yönteminin Temelleri
+# 9 Adımda Sonlu Elemanlar Yönteminin Temelleri
 
-12 Adımda Sonlu Elemanlar Yönteminin Temelleri eğitim serisi 12 dersten oluşan, fiziksel olayları temsil eden kısmı diferansiyel denklemlerin sonlu elemanlar yöntemiyle çözümünü uygulamalı olarak ele alan bir eğitim modülüdür.
+9 Adımda Sonlu Elemanlar Yönteminin Temelleri eğitim serisi 9 dersten oluşan, fiziksel olayları temsil eden kısmı diferansiyel denklemlerin sonlu elemanlar yöntemiyle çözümünü uygulamalı olarak ele alan bir eğitim modülüdür.
 
 ## Eğitimin Amacı
 
@@ -28,7 +28,7 @@ Hazırlanan eğitim serisi, son sınıf mühendislik/temel bilim lisans öğrenc
 
 ## Eğitimin İçeriği
 
-Eğitim toplam 12 adımdan oluşmaktadır. Bu adımlar ve içerikleri aşağıda listelenmiştir:
+Eğitim toplam 9 adımdan oluşmaktadır. Bu adımlar ve içerikleri aşağıda listelenmiştir:
 
 - Adım 1 : [Jupyter Notebook'un İşletim Sistemine Kurulumu](https://github.com/ekremekc/SEA-Temelleri/blob/main/Dersler/1_JupyterNotebookKurulum.ipynb) 
 - Adım 2 : [Python Programlama Bilgisine Kısa Bir Bakış](https://github.com/ekremekc/SEA-Temelleri/blob/main/Dersler/2_PythonGiris.ipynb) 
@@ -37,6 +37,7 @@ Eğitim toplam 12 adımdan oluşmaktadır. Bu adımlar ve içerikleri aşağıda
 - Adım 5 : [Sonlu Elemanlar Metodu ile 1 Boyutlu Isı Transferi Uygulaması](https://github.com/seatemelleri/SEA-Temelleri/blob/main/Dersler/5_Isi_Denklemi_1B.ipynb) 
 - Adım 6 : [Eksenel Titreşen Elastik Çubuk - Mod Şekli ve Modal Titreşim Frekansları ](https://github.com/seatemelleri/SEA-Temelleri/blob/main/Dersler/6.ipynb) 
 - Adım 7 : [Sonlu Elemanlar Metodu ile 2 Boyutlu Isı Transferi Uygulaması](https://github.com/seatemelleri/SEA-Temelleri/blob/main/Dersler/7_a.ipynb) 
+- Adım 9 : [Son Adım ve Öneriler](https://github.com/seatemelleri/SEA-Temelleri/blob/main/Dersler/9.ipynb)
 
 ## Çalışmanın Alıntılanması
 
