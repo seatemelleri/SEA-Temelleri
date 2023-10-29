@@ -1,5 +1,7 @@
 # 9 Adımda Sonlu Elemanlar Yönteminin Temelleri
 
+![koprumesh](kapak.png)
+
 9 Adımda Sonlu Elemanlar Yönteminin Temelleri eğitim serisi 9 dersten oluşan, fiziksel olayları temsil eden kısmi diferansiyel denklemlerin sonlu elemanlar yöntemiyle çözümünü uygulamalı olarak ele alan bir eğitim modülüdür.
 
 ## Eğitimin Amacı
