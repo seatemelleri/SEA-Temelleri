@@ -24,6 +24,8 @@ Bu interaktif eğitim serisinin bilindiği kadarıyla Türkçe olarak hazırlanm
 
 Eğitimler, bilgisayara tüm eğitim dosyalarını indirerek interaktif olarak kullanılabilir. İnteraktif olarak kodları değiştirmek için Jupyter Notebook'un bilgisayarınıza kurulu olması gerekmektedir. Bunun için Jupyter Notebook'un kurulumu, Windows ve Ubuntu işletim sistemleri için [Adım 1'de](https://github.com/ekremekc/SEA-Temelleri/blob/main/Dersler/1_JupyterNotebookKurulum.ipynb) anlatılmıştır. Bu adımı tamamlayıp bilgisayarınıza Jupyter Notebook'u kurduktan sonra istediğiniz dersi açıp o derste yazılan kodları değiştirip/çalıştırabilirsiniz.Eğitimi adim adım sırasıyla takip etmeniz anlatımdaki akışı yakalamanıza ve derslerin daha kolay anlaşılmasına yardımcı olacaktır.
 
+Bu eğitim açık kaynaklı olarak hazırlanmıştır ve her zaman böyle kalacaktır.
+
 ## Eğitim İçin Gerekli Ön Bilgiler
 
 Hazırlanan eğitim serisi, son sınıf mühendislik/temel bilim lisans öğrencilerine ve lisansüstü öğrencilere yöneliktir. Temel kısmi diferansiyel denklemler bilgisi ve lineer cebir bilgisi eğitime başlamak için yeterlidir. Ek olarak Python programlama ön bilgisine ihtiyaç yoktur. Tüm dersleri tamamlamak için gerekli programlama bilgisi [Adım 2'de](https://github.com/ekremekc/SEA-Temelleri/blob/main/Dersler/2_PythonGiris.ipynb) özetlenmiştir.   
