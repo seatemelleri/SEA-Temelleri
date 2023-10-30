@@ -39,6 +39,7 @@ Eğitim toplam 9 adımdan oluşmaktadır. Bu adımlar ve içerikleri aşağıda 
 - Adım 5 : [Sonlu Elemanlar Metodu ile 1 Boyutlu Isı Transferi Uygulaması](https://github.com/seatemelleri/SEA-Temelleri/blob/main/Dersler/5_Isi_Denklemi_1B.ipynb) 
 - Adım 6 : [Eksenel Titreşen Elastik Çubuk - Mod Şekli ve Modal Titreşim Frekansları ](https://github.com/seatemelleri/SEA-Temelleri/blob/main/Dersler/6.ipynb) 
 - Adım 7 : [Sonlu Elemanlar Metodu ile 2 Boyutlu Isı Transferi Uygulaması](https://github.com/seatemelleri/SEA-Temelleri/blob/main/Dersler/7_a.ipynb) 
+- Adım 8 : [Sonlu Elemanlar Metodu ile 2 Boyutlu Elastisite Uygulaması](https://github.com/ekremekc/SEA-Temelleri/blob/main/Dersler/8_a.ipynb) 
 - Adım 9 : [Son Adım ve Öneriler](https://github.com/seatemelleri/SEA-Temelleri/blob/main/Dersler/9.ipynb)
 
 ## Çalışmanın Alıntılanması
